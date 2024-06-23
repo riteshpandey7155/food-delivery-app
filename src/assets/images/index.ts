@@ -1,0 +1,1 @@
+export {default as panCakes} from 'assets/images/';
